@@ -10,7 +10,7 @@
   - *A list of products with link to product details*
   - *Ability to delete a product on the detail page*
 - SQL App (no ORM)
-  - using sqlite3 package to create database access objects
+  - using node-g package to create database access objects
   - ability to insert and delete data using body parsing
   - *A list of products with link to product details*
   - *Ability to delete a product on the detail page*
