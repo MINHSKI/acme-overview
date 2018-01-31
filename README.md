@@ -13,13 +13,11 @@
   - using pg node module
   - *A list of products with link to product details*
   - *Ability to delete a product on the detail page*
-- Express ORM with ability to insert/update/delete 
+- Express ORM with ability to insert/delete 
   - using a single model in Sequelize
-  - insert, update, and delete data
-  - *A list of users with first name, last name, email and hire date*
-  - *A edit page for a user where the user can be deleted*
+  - insert and delete data
+  - *A list of users with names*
   - *Ability to create a user on the list page* 
-  - *Ability to sort list of users based on attributes* 
 - Multi Relation ORM App with Tests
   - using multiple models in sequelize
   - creating class methods for complex business logic
