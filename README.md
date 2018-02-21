@@ -18,17 +18,13 @@
   - insert and delete data
   - *A list of users with names*
   - *Ability to create a user on the list page* 
-- Multi Relation ORM App with Tests
-  - using multiple models in sequelize
-  - creating class methods for complex business logic
-  - *A list of users with first name, last name, email, hire date, canMentor, mentor, and mentees*
-  - *An edit page for a user where the user can be deleted*
-  - *A users mentor can be set on the edit page*
-  - *Only a user who can mentor can have mentees*
-  - *A User who loses the canMentor status loses mentees*
-  - *A User who has mentees can not be deleted*
-  - *Write tests for complex business logic*
-- JQuery Single Page Application
+- Self Reference Model
+  - an employee needs an email and an employee can have a manager
+  - *A List of Employees plus a form to add a new Employee*
+  - *Employee can be added with a manager*
+  - *Use global middleware to show total employee count and total manager count*
+  - *Use virtual methods for the name of the user and the email provider*
+- Express Application With Some Client Side Functionality
   - use AJAX to fetch data
   - use components to update UI
   - using a third party component
