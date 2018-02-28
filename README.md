@@ -18,18 +18,15 @@
   - insert and delete data
   - *A list of users with names*
   - *Ability to create a user on the list page* 
-- Self Reference Model
+- Acme Directory With Managers
   - an employee needs an email and an employee can have a manager
   - *A List of Employees plus a form to add a new Employee*
   - *Employee can be added with a manager*
   - *Use global middleware to show total employee count and total manager count*
   - *Use virtual methods for the name of the user and the email provider*
-- Express Application With Some Client Side Functionality
-  - use AJAX to fetch data
-  - use components to update UI
-  - using a third party component
-  - *A listing page of the ACME store locations*
-  - *Ability to add a store by name and address*
-  - *Show a map with markers for the offices*
+- Acme Customers SPA
+  - use fetch api to list customers email
+  - customers can be created and deleted
+  - display email validation and unique errors
 - Using Redux to store client side state
 - Building a React Redux Application
