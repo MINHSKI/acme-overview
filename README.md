@@ -28,5 +28,8 @@
   - use fetch api to list customers email
   - customers can be created and deleted
   - display email validation and unique errors
+- Acme Users with Managers React
+  - two client side routes (one for all users and one for managers)
+  - no updating or deleting
 - Using Redux to store client side state
 - Building a React Redux Application
