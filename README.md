@@ -31,6 +31,8 @@
 - Acme Users with Managers React
   - two client side routes (one for all users and one for managers)
   - no updating or deleting
+- Acme CRUD with One Model Using React-Redux
+- Acme CRUD with One Model Plus Other Functionality - Rating Users From a New Component
 - Acme Tripplanner
   - starting with Tripplanner Repo set up react application which allow items to be added and removed from itinerary
   - itinerary models don't need to be saved
