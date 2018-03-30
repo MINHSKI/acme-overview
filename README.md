@@ -33,8 +33,6 @@
   - no updating or deleting
 - Acme CRUD with One Model Using React-Redux
 - Acme CRUD with One Model Plus Other Functionality - Rating Users From a New Component
-- Acme Tripplanner
-  - starting with Tripplanner Repo set up react application which allow items to be added and removed from itinerary
-  - itinerary models don't need to be saved
-- Using Redux to store client side state
-- Building a React Redux Application
+- Acme Category Products
+  - using two models
+  - focus on on redux store with normalization and leveraging mapStateToProps
